@@ -1,5 +1,7 @@
 ![banner](https://user-images.githubusercontent.com/97540589/236868448-3115eaa9-9bce-4962-af11-90099cc09138.JPG)
-### Hi there 👋
+<h1 align="center">Hello, I'm Quann.</h1>
+<h3 align="center">A Cybersecurity and IT Athlete that enjoys the endless challenge of technologies.</h3>
+
 
 <!--
 **CyberQ-Tech/CyberQ-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
