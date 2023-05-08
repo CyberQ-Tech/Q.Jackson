@@ -3,6 +3,12 @@
 <h3 align="center">A Cybersecurity and IT Athlete that enjoys the endless challenge of technologies.</h3>
 <h2>Link with Me.</h2>
 
+- <b>[LinkedIn]( https://www.linkedin.com/in/q-jackson-it/)
+
+ <br />
+ <br />
+
+<h2>Information Technology Projects</h2>
 
 <!--
 **CyberQ-Tech/CyberQ-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
