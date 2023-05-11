@@ -10,7 +10,7 @@
 
 <h2>Information Technology Projects</h2>
  
--<b>[SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
+-<b>[In Progres...]
 
 <!--
 **CyberQ-Tech/CyberQ-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
