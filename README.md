@@ -1,6 +1,6 @@
 ![banner](https://user-images.githubusercontent.com/97540589/236868448-3115eaa9-9bce-4962-af11-90099cc09138.JPG)
 <h1 align="center">Hello, I'm Quann.</h1>
-<h3 align="center">A Cybersecurity and IT Athlete that enjoys the endless challenge of technologies.</h3>
+<h3 align="center">A Cybersecurity and IT Athlete that enjoys the endless challenge of technology.</h3>
 <h2>Link with Me.</h2>
 
 - <b>[LinkedIn]( https://www.linkedin.com/in/q-jackson-it/)
