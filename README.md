@@ -6,7 +6,6 @@
 - <b>[LinkedIn]( https://www.linkedin.com/in/q-jackson-it/)
 
  <br />
- <br />
 
 <h2>Information Technology Projects</h2>
  
