@@ -5,7 +5,6 @@
 
 - <b>[LinkedIn]( https://www.linkedin.com/in/q-jackson-it/)
 
- <br />
 <h2>Information Technology Projects</h2>
  
 -<b>[SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
