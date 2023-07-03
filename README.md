@@ -11,6 +11,7 @@
 <h2>Information Technology Projects</h2>
  
 -<b>[SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
+-<b>[VPC-Network-Peering-GCP](https://github.com/CyberQ-Tech/VPC-Network-Peering)
 
 <!--
 **CyberQ-Tech/CyberQ-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
