@@ -10,6 +10,8 @@
 -<b>[SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
 <br></br>
 -<b>[VPC-Network-Peering-GCP](https://github.com/CyberQ-Tech/VPC-Network-Peering)
+<br></br>
+-<b>[Azure - Managing Network Access Control](https://github.com/CyberQ-Tech/Manging-Network-Access)
 
 <!--
 **CyberQ-Tech/CyberQ-Tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
