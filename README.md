@@ -5,7 +5,7 @@
 
 - <b>[LinkedIn]( https://www.linkedin.com/in/q-jackson-it/)
 
-<h2>Cybersecurity - Information Technology Projects</h2>
+<h2>Cybersecurity - Cloud Projects</h2>
  
 -<b>[Azure - SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
 <br></br>
