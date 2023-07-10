@@ -7,9 +7,9 @@
 
 <h2>Cybersecurity - Information Technology Projects</h2>
  
--<b>[SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
+-<b>[Azure - SOC Honeynet - Incident Response](https://github.com/CyberQ-Tech/SOC-Honeynet-Incident-Response)
 <br></br>
--<b>[VPC-Network-Peering-GCP](https://github.com/CyberQ-Tech/VPC-Network-Peering)
+-<b>[Google Cloud (GCP) - VPC-Network-Peering](https://github.com/CyberQ-Tech/VPC-Network-Peering)
 <br></br>
 -<b>[Azure - Managing Network Access Control](https://github.com/CyberQ-Tech/Manging-Network-Access)
 
